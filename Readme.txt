@@ -3,4 +3,4 @@
 ./page 页面文件
 
 mete 官方文档
-https://mete.wheell.tech
+https://wheell.tech
